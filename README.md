@@ -22,6 +22,8 @@
     1. Toast.makeText() 이용 하단에 width 크기 값을 표시 (Interger.toString() 함수 사용) 
 • 또 다른 버튼을 클릭하면 
     2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)
+    
+    
 <img width="" height="" src="./pic/1.png"></img>
 <img width="" height="" src="./pic/2.png"></img>
 <img width="" height="" src="./pic/3.png"></img>

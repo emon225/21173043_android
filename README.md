@@ -32,3 +32,13 @@
 <img width="" height="" src="./pic/3.png"></img>
 <img width="" height="" src="./pic/4.png"></img>
 <img width="" height="" src="./pic/5.png"></img>
+
+# 9주차 (2022-05-03)
+- SMS 입력화면 만들고 글자 수 표시하기
+
+<img width="" height="" src="./pic/9주차실행결과.png"></img>
+<img width="" height="" src="./pic/1-1.png"></img>
+<img width="" height="" src="./pic/1-2.png"></img>
+<img width="" height="" src="./pic/1-3.png"></img>
+<img width="" height="" src="./pic/2-1.png"></img>
+<img width="" height="" src="./pic/2-2.png"></img>

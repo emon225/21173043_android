@@ -68,6 +68,4 @@
 <img width="" height="" src="./pic/과제25-3.png"></img>
 <img width="" height="" src="./pic/과제25-4.png"></img>
 <img width="" height="" src="./pic/과제25-5.png"></img>
-
-- 과제
 <img width="" height="" src="./pic/과제 52-6.png"></img>
